@@ -3736,7 +3736,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tauri-app"
+name = "memobase"
 version = "0.1.0"
 dependencies = [
  "rusqlite",

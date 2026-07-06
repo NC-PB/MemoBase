@@ -1,7 +1,7 @@
 {
-  "name": "tauri-app",
+  "name": "memobase",
   "version": "0.1.0",
-  "description": "",
+  "description": "A local-first contact manager built with Tauri and SvelteKit",
   "type": "module",
   "scripts": {
     "dev": "vite dev",
